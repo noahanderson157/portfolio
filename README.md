@@ -2,8 +2,8 @@
 Welcome to my portfolio, this is where my case studies, projects, resume and additional notes are.
 ## Table of Contents 
 - [About Me](#about-me)
--   [Introduction](#introduction)
--   [Background](#background)
+  - [Introduction](#introduction)
+  - [Background](#background)
 - [Portfolio](#portfolio)
 - [Resume](#resume)
 - 
